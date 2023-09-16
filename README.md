@@ -8,7 +8,7 @@ ___ OPEN SOURCES by YounisXyz___</br>
 # 📸 Results Screenshots 📸
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/OPEN_CODE/blob/main/FILE%2BRAMDOM%2BEMAIL/img_1682060892744.jpg)
 
-# _______________________________
+# ______________________
 
 # RANDOM_SC1 ⤵️
 
