@@ -711,7 +711,7 @@ def Choice_Password():
         	jalan(f"{N}[{H}•{N}] NETWORK :{H} {network} ") 
         	jalan(f"{N}[{H}•{N}] YOUR IP :{H} {ip}");line()
         print(f"{N}[{H}➤{N}]{H} OPERATOR  {Brown}─➤{N} "+code+f"{H} TOTAL IDs {Brown}─➤{N} "+tl+" ")
-        print(f"{N}[{H}➤{N}] TODAY DATE & TIME :{R} {day}/{month}/{year} {Brown}─➤ {H} "+str(x)+":"+str(lt()[4])+" "+ xyz+" ")
+        print(f"{N}[{H}➤{N}] TODAY DATE & TIME :{R} {day}/{month}/{year} {Brown}─➤ {H} "+str(x)+":"+str(lt()[4])+" "+ tag+" ")
         print(f"{N}[{H}➤{N}]{Brown} If No Result {N}[{H}ON{N}/{R}OFF{N}]{Brown} Airplane Mode")
         print(f"{N}[{H}➤{N}] Your {H}OK{N}/{Y}CP {N}IDs Save In {H}> {N}/sdcard/ROMEO")
         line()
