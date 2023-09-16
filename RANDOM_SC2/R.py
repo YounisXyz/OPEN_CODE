@@ -590,8 +590,6 @@ def YounisXyz_XyzCoder():
         tl = str(len(user))
         
         if "y" in Display_info:
-        	#jalan(f"\t      {N}[{Brown} {xyztime()} {N}]")
-        #	jalan(f"{P}[{H}•{P}] USER NAME  : {pink} {username}")
         	jalan(f"{P}[{H}•{P}] TODAY DATE :  {F} {date}")
         	line()
         	jalan(f"{N}[{H}•{N}] COUNTRY :{H} {loc}") 
@@ -706,8 +704,6 @@ def Choice_Password():
         tl = str(len(user))
         clear()
         if "y" in Display_info:
-        #	jalan(f"\t      {N}[{Brown} {xyztime()} {N}]")
-        #	jalan(f"{P}[{H}•{P}] USER NAME  : {pink} {username}")
         	jalan(f"{P}[{H}•{P}] TODAY DATE :  {F} {date}")
         	line()
         	jalan(f"{N}[{H}•{N}] COUNTRY :{H} {loc}") 
