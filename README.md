@@ -21,3 +21,8 @@ ___ OPEN SOURCES by YounisXyz___</br>
 # 📸 Results Screenshots 📸
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/OPEN_CODE/blob/main/RANDOM_SC2/Screenshot_20230916-162141.jpg)
 ![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/OPEN_CODE/blob/main/RANDOM_SC2/1694863421707.jpg)
+
+# FB_USERNAME CLONINING ⤵️
+
+# 📸 Results Screenshots 📸
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/OPEN_CODE/blob/main/FB-USERNAME/Screenshot_20230917-193658.jpg)
