@@ -8,6 +8,3 @@ ___ OPEN SOURCES by YounisXyz___</br>
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://youtube.com/@MRTRICKERXYZ)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Dont+Forget+To+Follow+Me+On+GitHub!+)
-  
-
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.john-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
