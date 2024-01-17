@@ -81,11 +81,7 @@ elif "sys.stdout.write" in x:
     clr()
 else:
     pass
-try:
-    import mechanize
-except:
-    os.system(base64.b64decode(base64.b64decode("Y0dsd0lHbHVjM1JoYkd3Z2JXVmphR0Z1YVhwbElENGdMMlJsZGk5dWRXeHM=")))
-    
+
     
 def xox(m):
     for x in m + '\n':
