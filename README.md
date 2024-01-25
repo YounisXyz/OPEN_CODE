@@ -1,6 +1,7 @@
 # OPEN_CODE
 ___ OPEN SOURCES by YounisXyz___</br>
 # GitHub 
+<a href="https://github.com/YounisXyz"><img src="https://img.shields.io/github/followers/YounisXyz?label=followers&style=social"/></a>
 [![GitHub watch](https://img.shields.io/github/watchers/YounisXyz/OPEN_CODE.svg?style=social&label=Watch)](https://GitHub.com/YounisXyz/OPEN_CODE/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/YounisXyz/OPEN_CODE.svg?style=social&label=Fork)](https://GitHub.com/YounisXyz/OPEN_CODE/network/)
 [![GitHub stars](https://img.shields.io/github/stars/YounisXyz/OPEN_CODE.svg?style=social&label=Star)](https://GitHub.com/YounisXyz/OPEN_CODE/stargazers/)
