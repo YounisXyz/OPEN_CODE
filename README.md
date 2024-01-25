@@ -1,6 +1,9 @@
 # OPEN_CODE
 ___ OPEN SOURCES by YounisXyz___</br>
-
+# GitHub 
+[![GitHub watch](https://img.shields.io/github/watchers/YounisXyz/OPEN_CODE.svg?style=social&label=Watch)](https://GitHub.com/YounisXyz/OPEN_CODE/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/YounisXyz/OPEN_CODE.svg?style=social&label=Fork)](https://GitHub.com/YounisXyz/OPEN_CODE/network/)
+[![GitHub stars](https://img.shields.io/github/stars/YounisXyz/OPEN_CODE.svg?style=social&label=Star)](https://GitHub.com/YounisXyz/OPEN_CODE/stargazers/)
 # MY SOCIAL MEDIA 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/YounisXyz) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/YounisXyz)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/xyzhackers)
