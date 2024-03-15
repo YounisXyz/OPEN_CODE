@@ -90,7 +90,7 @@ class System:
         print(f'\n ({green}•{reset}) Brute Has Completed :) ')
         exit()
     def cloning(self,uid,first,last):
-        sys.stdout.write(f" ({green}•{reset}) {uid} : {str(self.loop)}/{str(len(self.idz))} ({green}ok{reset}):{str(len(self.oku))} ({blue}cp{reset}):{str(len(self.cpu))}\r")
+        sys.stdout.write(f" ({green}•{reset}) {str(self.loop)}/{str(len(self.idz))} ({green}ok{reset}):{str(len(self.oku))} ({blue}cp{reset}):{str(len(self.cpu))}\r")
         model_,build = random.choice(self.models).rsplit('|')
         android_version = f"Android {random.randint(4, 10)}.{random.randint(0, 9)}.{random.randint(0, 9)}"
         facebook_version = f"{random.randint(100, 200)}.{random.randint(0, 100)}.{random.randint(0, 100)}.{random.randint(0, 100)}"
